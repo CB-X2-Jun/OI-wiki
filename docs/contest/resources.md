@@ -29,7 +29,8 @@ author: Suyun514, ChungZH, Enter-tainer, StudyingFather, Konano, JulieSigtuna, G
 -   [POJ](http://poj.org/)：北京大学在线评测系统，始于 2003 年，国内历史最悠久的 OJ 之一。内有很多英文题，既有基础题，也有值得一试的好题。
 -   [PTA（拼题 A）](https://pintia.cn/)：始于 2016 年，浙江大学衍生的杭州百腾教育科技有限公司产品。
 -   [清澄](http://www.tsinsen.com/)：始于 2005 年，由 [胡伟栋](http://www.hhwdd.com/) 开发。自 2019 年 9 月 1 日起不再对外提供服务。
--   [Universal Online Judge](https://uoj.ac/)：始于 2014 年，Universal 取通用之意，[项目开源](https://github.com/UniversalOJ/UOJ-System)；[VFK](https://github.com/vfleaking) 的 OJ：多原创比赛题和 CCF/THU 题，难度较高。
+-   [QOJ](https://qoj.ac/)
+-   [Universal Online Judge](https://uoj.ac/)(UOJ)：始于 2014 年，Universal 取通用之意，[项目开源](https://github.com/UniversalOJ/UOJ-System)；[VFK](https://github.com/vfleaking) 的 OJ：多原创比赛题和 CCF/THU 题，难度较高。
 -   [Vijos](https://vijos.org/)：始于 2005 年。[服务端](https://github.com/vijos/vj4) 和 [评测机](https://github.com/vijos/jd4) 等项目开源。
 -   [WZOI](https://wzoi.cc)：始于 2017 年，由浙江省温州中学维护的 [开源](https://github.com/massimodong/wzoj) 评测系统。
 -   [ZOJ](https://zoj.pintia.cn/home)：浙江大学在线评测系统，始于 2001 年。
@@ -51,6 +52,7 @@ author: Suyun514, ChungZH, Enter-tainer, StudyingFather, Konano, JulieSigtuna, G
 -   [Light OJ](http://lightoj.com) 一个快挂了的 OJ，`www` 域名无法访问，请使用 [根域名](http://lightoj.com) 访问
 -   [opentrains](http://opentrains.snarknews.info/) 俄罗斯 [Open Cup](http://opencup.ru/) 比赛的训练平台，基于 [ejudge](https://ejudge.ru/) 开源系统搭建，支持虚拟比赛；题库包含历年 Open Cup 赛题以及 Petrozavodsk 训练营的题目。
 -   [SPOJ](http://www.spoj.com) 始于 2003 年，其后台系统 [Sphere Engine](https://sphere-engine.com/) 于 2008 年商业化；支持题目点赞和标签功能。
+-   [Szkopuł](https://szkopul.edu.pl/)
 -   [TopCoder](https://www.topcoder.com/) 始于 2001 年，其 [竞技编程社区](https://www.topcoder.com/community/competitive-programming/) 有很多比赛；目前主营业务是技术众包。
 -   [TimusOJ](http://acm.timus.ru/) 始于 2000 年，由 Ural Federal University 开发，拥有俄罗斯最大的在线评测题库，题目主要来自乌拉尔联邦大学校赛、乌拉尔锦标赛、ICPC 乌拉尔区域赛、以及 Petrozavodsk 训练营。
 -   Online Judge（前 [UVaOJ](https://uva.onlinejudge.org/)）始于 1995 年，国际成名最早的 OJ，创始人是西班牙 University of Valladolid (UVa) 的 Miguel Ángel Revilla 教授；由于 [Revilla 教授于 2018 年不幸离世](https://www.elnortedecastilla.es/valladolid/muere-profesor-miguel-20180402225739-nt.html)，且 Valladolid 大学终止维护，UVaOJ 自 2019 年 7 月起更名为 Online Judge。现在该平台的维护者 [正在 GitHub 上构建新的评测平台](https://github.com/TheOnlineJudge/ojudge)。
